@@ -1,0 +1,1 @@
+THis HyperText project is a web story game for Warhammer's SpaceHulk. This game gives users choices for their actions, and the selected choice may lead to different endings. This project was never fully completed, however it acted as an initial introduction to Web development using Javascript.
